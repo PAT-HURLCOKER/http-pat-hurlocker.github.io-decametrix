@@ -1,0 +1,8 @@
+There are now two jupyter noteboooks. The Cleaning_Data notebook so far, works on cleaning most of the LDP EOP Data. 
+I still need to work on the other data sets. 
+
+You can try applying the function clean_dat to the other data sets to see if it's more efficient 
+
+Let me know through Slack if you have questions
+
+-Marcus
