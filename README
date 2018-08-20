@@ -1,8 +1,8 @@
-There are now two jupyter noteboooks. The Cleaning_Data notebook so far, works on cleaning most of the LDP EOP Data. 
-I still need to work on the other data sets. 
+The Cleaning_Data notebook works on cleaning most of the LDP EOP Data and LOI datasets. 
+After the data was cleaned, other project members used the new, cleaned datasets to perform analysis:
 
-You can try applying the function clean_dat to the other data sets to see if it's more efficient 
+-Linear Regression
 
-Let me know through Slack if you have questions
+-Seeing if Course Objectives were being met
 
--Marcus
+-Analyzing the consistency of the responses to Faculty rating questions
